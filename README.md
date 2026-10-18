@@ -1,0 +1,2 @@
+# Learning-path-for-Students
+Learning Path for Students is a student-focused project designed to help learners identify their goals, develop essential skills, and follow structured learning paths. It provides organized learning resources, skill development guidance, and career-oriented recommendations to support academic growth, practical knowledge, and career readiness in the evolving technology industry.
